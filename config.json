@@ -1,0 +1,16 @@
+d{
+	"conditional": false,
+	"window": 2405,
+	"nflows": 12,
+	"hidden_dim": 1000,
+	"K": 8,
+	"B": 3,
+	"lr": 5e-6,
+	"weight_decay": 1e-6,
+	"batch_size": 200,
+	"num_workers": 0,
+	"n_epochs":100,
+	"n_samples": 100,
+	"conditions": [4.5, 2.1, 0.0],
+	"savepath": "joint_mod_fulldim_snr100"
+}
